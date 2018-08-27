@@ -9,3 +9,10 @@ Supongamos que se encuentra en la carpeta dia001 para compilar el archivo lst01-
 ```
 g++ lst01-01.cxx -o lst01-01 
 ```
+
+Para ejecutar el programa 
+
+```
+./lst01-01 
+```
+
