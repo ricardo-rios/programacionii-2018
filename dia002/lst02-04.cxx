@@ -7,13 +7,13 @@ using namespace std;
 
 void FuncionDeMuestra()
 {
-   cout << "Estamos dentro de una funcion\n"; 
+   cout << "Estamos dentro de una FuncionDeMuestra\n";
 }
 
 int main()
 {
    cout << "Estamos de dentro de la funcion main\n";
-   FuncionDeMuestra(); 
-   cout << "Estamos de regreso dentro de la funcion main\n";
-   return 0;  
+   FuncionDeMuestra();
+   cout << "Estamos de regreso en main\n";
+   return 0;
 }
