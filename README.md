@@ -16,3 +16,8 @@ Para ejecutar el programa
 ./lst01-01 
 ```
 
+## Por qué un bool ocupa 1 byte. 
+
+Buena referencia:
+
+https://stackoverflow.com/questions/2064550/c-why-bool-is-8-bits-long
