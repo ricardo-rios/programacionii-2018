@@ -20,7 +20,7 @@ int main()
    if (opcion == Domingo || opcion == Sabado)
       cout << "\n!Ya se le agotaron los fines de semana!\n";
    else
-      cout << "\nEsta bien, incluire un dia de descanso.\n"
+      cout << "\nEsta bien, incluire un dia de descanso.\n"; 
 
    
 
